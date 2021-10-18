@@ -1,4 +1,4 @@
-#QUIZ -  How well do you know me ?
+# QUIZ -  How well do you know me ?
 
  A fun CLI game made using JavaScript !
  
